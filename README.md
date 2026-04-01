@@ -92,7 +92,9 @@ npm start
 
 ## 📸 Screenshots
 
-(Add screenshots of your UI here for better presentation)
+## 📸 Screenshots
+
+![Home Page](userManagemet1.png)
 
 ---
 
