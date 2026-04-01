@@ -90,11 +90,14 @@ npm start
 
 ---
 
-## 📸 Screenshots
 
 ## 📸 Screenshots
 
 ![Home Page](https://github.com/Qn-Chandra/User-Management-System/blob/master/userMnagement1.png)
+![Home Page]()
+![Home Page]()
+![Home Page]()
+![Home Page]()
 
 ---
 
